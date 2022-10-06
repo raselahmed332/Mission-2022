@@ -47,9 +47,8 @@ p {
 }
 
 .conteiner {
-    /* width: 80%; */
-    width: 1128px;
-    height: 490px;
+    width: 80%;
+    
     margin: 0 150px 80px;
     display: flex;
     justify-content: space-between;
